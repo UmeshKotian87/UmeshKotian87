@@ -61,12 +61,12 @@ Turning ideas into reliable and impactful digital solutions.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umesh-H-Poojary&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-H-Poojary&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UmeshKotian87&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmeshKotian87&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Umesh-H-Poojary&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=UmeshKotian87&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -82,5 +82,5 @@ Turning ideas into reliable and impactful digital solutions.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Umesh-H-Poojary&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=UmeshKotian87&style=flat-square&color=blue" />
 </p>
