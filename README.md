@@ -29,9 +29,15 @@ Turning ideas into reliable and impactful digital solutions.
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Umesh-H-Poojary"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/UmeshKotian87">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://in.linkedin.com/in/umesh-h-poojary-4327a2305">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/umesh._kotian">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
